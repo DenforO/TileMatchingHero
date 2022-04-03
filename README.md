@@ -6,6 +6,8 @@ First course project, made during second semester at Technical university for th
 ## Overview
 Tile Matching Hero is a fantasy-themed RPG style game based on the standard "match-three" mechanic, where the player manipulates tiles in order to make them disappear. The objective is to place as many tiles of the same type next to each other as possible, by dragging only one at a time. Each type of tiles gives the player points that can be used in order to perform specific actions in a duel with a mystical creature.
 
+![movingTile](https://github.com/Yrd-Q/TileMatchingHero/blob/main/Screenshots/tileMoving2.gif)  
+   
 ## Gameplay
 
 ### Battle  
@@ -13,7 +15,7 @@ The player can choose out of four levels of difficulty that determine how many e
 
 - **draging a tile** over the board, matching as many same-type tiles as possible in order to collect elemental points (once per turn)  
 
-   ![movingTile](https://github.com/Yrd-Q/TileMatchingHero/blob/main/Screenshots/tileMoving2.gif)
+   ![movingTile](https://github.com/Yrd-Q/TileMatchingHero/blob/main/Screenshots/tileMoving3.gif)
    
 - activating a **Magic action** when enough of the required elemental points are collected  
 
