@@ -59,7 +59,7 @@ The player could also visit the Inventory to view his/her stored Potions and/or 
 The project fulfills the following OOP requirements (with examples):  
 - **Inheritance**  
   - The different types of tiles (Circle, Triangle, Diamond...) inherit the abstract class Shape
-    - Each shape has a center, color, etc., but has a different way of painting, calculating wether the cursor is inside it or not, etc.
+    - Each shape has a center, color, etc., but has a different way of painting, calculating whether the cursor is inside it or not, etc.
   - The different types of Enemies (Dragon, Goblin, Witch) inherit the abstract class Enemy  
     - Each enemy has the same set of stats (Life points, Defence points, ...) but the set of Action it chooses from depends on its type (Goblin - Basic attack or Shield, Witch - Weak magic attack or Attack basend on lost Life points...)  
 
